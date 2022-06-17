@@ -1,0 +1,9 @@
+total 24
+drwxrwxr-x 2 ainosoft ainosoft 4096 May 23 10:35 .
+drwxrwxr-x 6 ainosoft ainosoft 4096 May 23 10:15 ..
+-rw-rw-r-- 1 ainosoft ainosoft    0 May 23 10:35 file1.txt
+-rw-rw-r-- 1 ainosoft ainosoft    0 May 23 10:35 file2.txt
+-rwxrwxr-x 1 ainosoft ainosoft   76 May 23 10:26 read-data.sh
+-rw-rw-r-- 1 ainosoft ainosoft  353 May 23 10:27 sample.txt
+-rwxrwxr-x 1 ainosoft ainosoft  174 May 23 10:22 script_input.sh
+-rwxrwxr-x 1 ainosoft ainosoft   44 May 23 10:34 standard-output.sh
